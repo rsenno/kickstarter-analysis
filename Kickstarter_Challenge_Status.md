@@ -2,7 +2,7 @@
 
 ## Current Status
 
-2021/04/25: ...just started.
+2021/04/26: Deliverable 1 and 2 Completed. Delivereable 3 Not Yet Started.
 
 ### Projected Completion
 
@@ -10,7 +10,9 @@
 
 ## Status History
 
-None yet.
+2021/04/25: Started
+
+2021/04/26: Deliverable 1 and 2 Completed. 
 
 ### Summary
 
