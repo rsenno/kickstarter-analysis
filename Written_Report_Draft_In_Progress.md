@@ -36,7 +36,7 @@ Note in the chart above that although successful and failed campaigns tended to 
 
 ### Analysis of Outcomes Based on Goals
 
-The client requested an analysis of campaign outcomes relative to the funding target of the campaigns and wanted to “drill down” to just the “plays” portion of the theater category for this investigation. To accomplish this, a table was created on a new spreadsheet in the workbook provided by the client as shown below. (Note that there were no theater plays canceled in any funding target range in this dataset. Also note that most data points are in funding ranges below 15,000, and the number of data points in funding categories above 25,000 appear to be both small and erratic.):
+The client requested an analysis of campaign outcomes relative to the funding target of the campaigns and wanted to “drill down” to just the “plays” portion of the theater category for this investigation. To accomplish this, a table was created on a new spreadsheet in the workbook provided by the client as shown below. (Note that there were no theater plays canceled in any funding target range in this dataset. Also note that most data points are in funding goal ranges below $15,000, and the number of data points in funding goals categories above $25,000 appear by visual inspection to be insufficiently large enough to draw conclusions from, although no statistical analysis was undertaken to confirm this.):
 
 <insert Outcomes Based on Goals table here>
 
@@ -45,7 +45,6 @@ A chart was prepared based on percentages calculated in the last three columns o
 <insert Outcomes Based on Goals chart here>
 
 In the chart above, the number of successful appears to gradually diminish starting from a high of almost 76 percent in the less than $1000 range and then slowly reducing to 45 percent in the $20,000 to $24,999 range. In higher funding ranges, the percentage values appear erratic. This could possibly be due to insufficient data available for these ranges.
-
 
 ### Challenges and Difficulties Encountered
 
@@ -58,8 +57,6 @@ There were several challenges in putting together the analysis. For the “theat
 #### Outcomes based on Launch Date
 
 The best month to start a theater-related fundraising campaign appeared to be May followed by June and then July. The worst month to launch a campaign appeared to be December. Although it was not calculated, all months except December appeared to offer a 50% or better chance of success (by visual inspection).
-
-- What can you conclude about the Outcomes based on Goals?
 
 #### Outcomes based on Goals
 
