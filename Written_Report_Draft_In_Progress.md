@@ -26,11 +26,11 @@ The client requested an analysis of outcomes for the broader “theater” paren
 
 The screenshot of the pivot table below shows the data collected based on the selected fields. (Note that there were no instances of cancelations in October for any year in the data range.):
 
-<insert pivot table screenshot here>
+![pivot table screenshot](resources/Pivot_Table_Screenshot_2021-05-01_122628.png)
 
 Finally, a chart was prepared to give a visual representation of the data:
 
-<insert Theater Outcomes by Launch Date here>
+![Theater Outcomes by Launch Date](resources/Theater_Outcomes_vs_Launch.png)
 
 Note in the chart above that although successful and failed campaigns tended to rise and fall together both in the first few months of the year and the last few months of the year, the successful campaigns rose much higher in May than the failed ones, and even though the total number of successful campaigns began to fall after that, they still outpaced the failed ones by significantly higher margin in June and July before settling back a more typical distance above failed campaigns in August. In contrast, the number of failed campaigns was relatively even for May through July.
 
@@ -38,11 +38,11 @@ Note in the chart above that although successful and failed campaigns tended to 
 
 The client requested an analysis of campaign outcomes relative to the funding target of the campaigns and wanted to “drill down” to just the “plays” portion of the theater category for this investigation. To accomplish this, a table was created on a new spreadsheet in the workbook provided by the client as shown below. (Note that there were no theater plays canceled in any funding target range in this dataset. Also note that most data points are in funding goal ranges below $15,000, and the number of data points in funding goals categories above $25,000 appear by visual inspection to be insufficiently large enough to draw conclusions from, although no statistical analysis was undertaken to confirm this.):
 
-<insert Outcomes Based on Goals table here>
+![Outcomes Based on Goals table](resources/Outcomes_Based_on_Goals_Table_Screenshot_2021-05-01_172549.png)
 
 A chart was prepared based on percentages calculated in the last three columns of the table described (and shown) above. The chart is shown below:
 
-<insert Outcomes Based on Goals chart here>
+![Outcomes Based on Goals chart](resources/Outcomes_vs_Goals.png)
 
 In the chart above, the number of successful appears to gradually diminish starting from a high of almost 76 percent in the less than $1000 range and then slowly reducing to 45 percent in the $20,000 to $24,999 range. In higher funding ranges, the percentage values appear erratic. This could possibly be due to insufficient data available for these ranges.
 
