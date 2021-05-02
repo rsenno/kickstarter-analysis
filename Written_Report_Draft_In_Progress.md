@@ -16,6 +16,7 @@ The dataset was provided by the client in the form of a spreadsheet in an Excel 
 
 Additional columns were added to the supplied spreadsheet to a) break out fundraising subcategories from parent categories, b) normalize timestamp information converting it to a date format, and c) extract the year that individual fundraising events occurred (see screenshot below for details). These were needed to complete the analysis. The other parts of the analysis, followed by a summary of challenges and difficulties encountered, are described in subsequent sections.
 
+![screenshot of columns added]/resources/'Added Spreadsheet Columns Screenshot 2021-05-01 143921.png'
 <insert screenshot of columns added>
 
 ### Analysis of Outcomes Based on Launch Date
@@ -60,7 +61,7 @@ The best month to start a theater-related fundraising campaign appeared to be Ma
 
 #### Outcomes based on Goals
 
-Lower fundraising goals for theater plays appeared to be both more popular choices and more successful. The $1,000 to $4,999 goal range had significantly more data points than any other range and was the second most successful (goals that were less than $1,00 had a slightly better outcome).
+Lower fundraising goals for theater plays appeared to be both more popular choices and more successful. The $1,000 to $4,999 goal range had significantly more data points than any other range and was the second most successful (goals that were less than $1,000 had a slightly better outcome).
 
 ### Limitations
 
