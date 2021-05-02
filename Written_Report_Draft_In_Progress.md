@@ -22,7 +22,7 @@ Additional columns were added to the supplied spreadsheet to a) break out fundra
 
 The client requested an analysis of outcomes for the broader “theater” parent category relative to the time of year the fundraisers were launched. The client was interested in fundraising events that had already achieved an outcome (success, failure, or cancelation), so events that were still in progress were filtered out. A pivot table was created using certain selected fields to achieve this.  The screenshot below shows the pivot table fields selected. (Note that the outcomes were filtered as described above):
 
-![pivot table field screenshot](resources/'PIvot Table Screenshot 2021-05-01 122628.png')
+![pivot table field screenshot](resources/Pivot_Table_Fields_Screenshot_2021-05-01_122230.png)
 
 The screenshot of the pivot table below shows the data collected based on the selected fields. (Note that there were no instances of cancelations in October for any year in the data range.):
 
