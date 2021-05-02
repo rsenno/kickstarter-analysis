@@ -17,13 +17,12 @@ The dataset was provided by the client in the form of a spreadsheet in an Excel 
 Additional columns were added to the supplied spreadsheet to a) break out fundraising subcategories from parent categories, b) normalize timestamp information converting it to a date format, and c) extract the year that individual fundraising events occurred (see screenshot below for details). These were needed to complete the analysis. The other parts of the analysis, followed by a summary of challenges and difficulties encountered, are described in subsequent sections.
 
 ![screenshot of columns added](resources/Added_Spreadsheet_Columns_Screenshot_2021-05-01_143921.png)
-<insert screenshot of columns added>
 
 ### Analysis of Outcomes Based on Launch Date
 
 The client requested an analysis of outcomes for the broader “theater” parent category relative to the time of year the fundraisers were launched. The client was interested in fundraising events that had already achieved an outcome (success, failure, or cancelation), so events that were still in progress were filtered out. A pivot table was created using certain selected fields to achieve this.  The screenshot below shows the pivot table fields selected. (Note that the outcomes were filtered as described above):
 
-<insert pivot table field screenshot here>
+![pivot table field screenshot]((resources/'PIvot Table Screenshot 2021-05-01 122628.png')
 
 The screenshot of the pivot table below shows the data collected based on the selected fields. (Note that there were no instances of cancelations in October for any year in the data range.):
 
