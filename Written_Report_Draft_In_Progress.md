@@ -73,7 +73,7 @@ Similarly, a larger dataset, if available, might increase confidence in analysis
 
 ### Further Work
 
-Although it is uncertain if there is sufficient data for the analysis, comparing outcomes in different nations or locales might prove interesting. Also, the three years that the dataset spans could be compared with each other.
+Although not requested, some statistical analysis could be employed to remove outliers in the dataset, determine mean, mode, median, etc. Next, if there is sufficient data for the analysis, comparing outcomes in different nations or locales might prove interesting. Also, the three years that the dataset spans could be compared with each other. Finally, a dataset including more recent years might better predict outcomes in the current enviornment.
 
 
 
