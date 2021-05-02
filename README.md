@@ -66,7 +66,7 @@ Lower fundraising goals for theater plays appeared to be both more popular choic
 
 As previously noted, the dataset was provided by the client. It was not known where from or how the dataset was collected, nor how comprehensive it might be.
 
-The data set only spanned campaigns over a three-year period. Since economic conditions change over time, a larger dataset spanning as increased number of years might be less susceptible to economic swings. Also, more recent data would be helpful.
+The data set only spanned campaigns over a three-year period. Since economic conditions change over time, a larger dataset spanning an increased number of years might be less susceptible to economic swings. Also, more recent data would be helpful.
 
 Similarly, a larger dataset, if available, might increase confidence in analysis of fund raising involving larger goals.
 
