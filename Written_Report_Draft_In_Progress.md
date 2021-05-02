@@ -32,7 +32,7 @@ Finally, a chart was prepared to give a visual representation of the data:
 
 ![Theater Outcomes by Launch Date](resources/Theater_Outcomes_vs_Launch.png)
 
-Note in the chart above that although successful and failed campaigns tended to rise and fall together both in the first few months of the year and the last few months of the year, the successful campaigns rose much higher in May than the failed ones, and even though the total number of successful campaigns began to fall after that, they still outpaced the failed ones by significantly higher margin in June and July before settling back a more typical distance above failed campaigns in August. In contrast, the number of failed campaigns was relatively even for May through July.
+Note in the chart above that although successful and failed campaigns tended to rise and fall together both in the first few months of the year and the last few months of the year, the successful campaigns rose much higher in May than the failed ones, and even though the total number of successful campaigns began to fall after that, they still outpaced the failed ones by a significantly higher margin in June and July before settling back a more typical distance above failed campaigns in August. In contrast, the number of failed campaigns was relatively even for May through July.
 
 ### Analysis of Outcomes Based on Goals
 
@@ -44,7 +44,7 @@ A chart was prepared based on percentages calculated in the last three columns o
 
 ![Outcomes Based on Goals chart](resources/Outcomes_vs_Goals.png)
 
-In the chart above, the number of successful appears to gradually diminish starting from a high of almost 76 percent in the less than $1000 range and then slowly reducing to 45 percent in the $20,000 to $24,999 range. In higher funding ranges, the percentage values appear erratic. This could possibly be due to insufficient data available for these ranges.
+In the chart above, the number of successful outcomes appears to gradually diminish starting from a high of almost 76 percent in the less than $1000 range and then slowly reducing to 45 percent in the $20,000 to $24,999 range. In higher funding ranges, the percentage values appear erratic. This could possibly be due to insufficient data available for these ranges.
 
 ### Challenges and Difficulties Encountered
 
@@ -64,9 +64,11 @@ Lower fundraising goals for theater plays appeared to be both more popular choic
 
 ### Limitations
 
+As previously noted, the dataset was provided by the client. It was not known where from or how the dataset was collected, nor how comprehensive it might be.
+
 The data set only spanned campaigns over a three-year period. Since economic conditions change over time, a larger dataset spanning as increased number of years might be less susceptible to economic swings. Also, more recent data would be helpful.
 
-Similarly, a larger dataset might increase confidence in analysis of fund raising involving larger goals.
+Similarly, a larger dataset, if available, might increase confidence in analysis of fund raising involving larger goals.
 
 
 ### Further Work
